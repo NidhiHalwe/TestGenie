@@ -525,7 +525,3 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 This project is available for educational and development purposes.
 
-````
-
-**Important bhai:** jo upar wala ` ```markdown ` start aur last ` ``` ` hai, **woh bhi copy mat karna**. Sirf uske **andar ka content**, yani `# 🤖 TestGenie...` se lekar `License` tak copy karke GitHub ke editor mein paste karna.
-````
