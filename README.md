@@ -10,7 +10,7 @@ By leveraging the Google Gemini API, TestGenie analyzes JavaScript code, identif
 
 > [My live demo link.](https://www.loom.com/share/0c7baee0330644deadcefeaef2e23f26)
 
-**Demo:** Coming Soon
+
 
 ---
 
