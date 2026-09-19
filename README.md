@@ -8,7 +8,7 @@ By leveraging the Google Gemini API, TestGenie analyzes JavaScript code, identif
 
 ## 🎥 Live Demo
 
-> Add your Loom or YouTube demo link here after recording the project walkthrough.
+> [My live demo link.](https://www.loom.com/share/0c7baee0330644deadcefeaef2e23f26)
 
 **Demo:** Coming Soon
 
